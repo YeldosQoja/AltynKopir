@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Altynkopir</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">c7HHpbaonG0zhXuAgPpGk2G1Xaxq6r2n70nJX</string>
+</resources>
